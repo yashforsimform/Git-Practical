@@ -1,4 +1,4 @@
-# Git-Practical
+# Git Practical Exam
 
 Git Practical Exam
 
